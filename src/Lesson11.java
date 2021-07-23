@@ -24,7 +24,7 @@ public class Lesson11 {
 //        System.out.println("Please enter the first element in array: " + scanner);
 //        double[] zzzArray = {Math.random(), Math.random(),Math.random(),Math.random(),Math.random()};
 //
-//        System.out.println("The sum of the elements that were set by user input is " + (firstElement + lastElement));
+//        System.out.println("The sum of the elements that were set by user input is " + (newArray[0] + newArray[newArray.length-1]));
 //    }
         int[] array = {2, 4, 5, 6, 3, 9, 10, 2, 9, 8};
         int sum = 0;
